@@ -1,3 +1,5 @@
+Sorrym broke something. Currently failing, please don't use quite yet
+
 # -literaryclock-kobo-nook
 A quick html page to get the fantastic kindle literature clock working on kobo touch and nook touch models running android
 
