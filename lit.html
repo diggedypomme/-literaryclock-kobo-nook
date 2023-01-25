@@ -63,9 +63,12 @@ function do_with_fail(attemptfortime)
 	document.getElementById("changeme2").innerHTML="nothing for this time"
 	document.getElementById("changeme2").innerHTML=imagedict[attemptfortime]
 	
+	if (attemptfortime in imagedict)
+	{
 	var choices = imagedict[attemptfortime][Math.floor(Math.random()*imagedict[attemptfortime].length)];
 	
 	document.getElementById("image").src="meta/"+choices
+	}
 	}
 
 }
