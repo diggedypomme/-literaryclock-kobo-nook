@@ -1,4 +1,4 @@
-Sorrym broke something. Currently failing, please don't use quite yet
+Sorry, I'm having some issues with the nook part at the moment, in that it is really picky when it wants to update. I am still debugging but for now the kobo part works.
 
 # -literaryclock-kobo-nook
 A quick html page to get the fantastic kindle literature clock working on kobo touch and nook touch models running android
@@ -26,7 +26,7 @@ Every time is from a real book quote and the current selection of quotes runs to
 
 ## Materials
 * **Nook Simple running android** 
-* **Kobo Touch* for use with SSH and transferring files
+* **Kobo Touch**
 
 ## Build Overview
 * clone the git or download files
