@@ -31,7 +31,7 @@ Every time is from a real book quote and the current selection of quotes runs to
 * You need to fill the "meta" folder with the contents of the "metadata" folder within the following zip:
 https://content.instructables.com/FC6/C8RE/JK4UL3EC/FC6C8REJK4UL3EC.zip
 Which is the "images.zip" file from about half way down this guide https://www.instructables.com/Literary-Clock-Made-From-E-reader/. It's about 60 meg but we only need part of it.  Extract and copy all of the files from inside the "metadata" folder into the "meta" folder
-* browse to the file in your file manager and open in dolphin. On the kobo this was not installed, and I used the oldest version from 
+* browse to the file (lit.html) in your file manager and open in dolphin. On the kobo this was not installed, and I used the oldest version from 
  
  I had a frustrating time working out how to set the link to the homepage of dolphin, so this is my guide:
 * load it locally with file browser
