@@ -19,12 +19,12 @@ Non-destructive.
 Every time is from a real book quote and the current selection of quotes runs to slightly over 2300+ times for the 1440 minutes of a day. Every quote has the time preserved in it's original written format which means times can vary from 24h clock (1315h) to written format (twenty and seven past three). There are still a number of times still missing and some quotes are vague enough to be used to fill in some gaps."
 
 <p align="center">
-<img src="iteraryclockrunning.jpg" height="600">
+<img src="kobonook.png" height="600">
 </p>
 
 ## Materials
-* **Nook simple running android** (I think this can be run on multiple models but I haven't explored this yet - I have touch and non--touch to try out)
-* **Kindle touch running android** for use with SSH and transferring files
+* **Nook Simple running android** 
+* **Kobo Touch* for use with SSH and transferring files
 
 ## Build Overview
 * clone the git or download files
